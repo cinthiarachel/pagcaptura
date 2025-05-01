@@ -79,7 +79,7 @@ button {
 @media (max-width: 767px) {
 
     h1 {
-        font-size: 16px;
+        font-size: 18px;
     }
     
     .container {
@@ -92,7 +92,7 @@ button {
         color: white;
         border-radius: 5px;
         box-shadow: 2px 2px 5px black;
-        font-size: 14px;
+        font-size: 16px;
         max-width: 767px;
     }
     
@@ -122,7 +122,7 @@ button {
         color: #0A2463;
         border-radius: 5px;
         box-shadow: 2px 2px 2px black;
-        font-size: 14px;
+        font-size: 16px;
     }
     
     h3, p {
